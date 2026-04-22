@@ -1,2 +1,9 @@
-# mini-weather-cli-box
-A simple weather cli project
+# Weather Cli
+
+A simple weather cli project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
